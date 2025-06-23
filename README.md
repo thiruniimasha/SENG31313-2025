@@ -25,7 +25,7 @@ The website serves as a digital portfolio that includes the following features:
 ## Live Hosted Link
 
 You can view the live portfolio at:  
-[https://portfolioimasha.netlify.app/](https://portfolioimasha.netlify.app/)
+[thimasha.netlify.app/](thimasha.netlify.app)
 
 
 ## How to Run the Project Locally 
